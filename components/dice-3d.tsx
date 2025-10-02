@@ -88,8 +88,8 @@ function getDiceFaceTransform(face: number): string {
   const transforms = {
     1: "rotateY(0deg) translateZ(48px)", 
     2: "rotateY(180deg) translateZ(48px)", 
-    3: "rotateY(90deg) translateZ(48px)", 
-    4: "rotateY(-90deg) translateZ(48px)", 
+    3: "rotateY(-90deg) translateZ(48px)", 
+    4: "rotateY(90deg) translateZ(48px)", 
     5: "rotateX(-90deg) translateZ(48px)", 
     6: "rotateX(90deg) translateZ(48px)", 
   }
